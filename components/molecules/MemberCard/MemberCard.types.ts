@@ -1,0 +1,2 @@
+// MemberCard types
+
