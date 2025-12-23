@@ -1,2 +1,5 @@
-// Root layout for Expo Router
+import { Slot } from 'expo-router';
 
+export default function RootLayout() {
+  return <Slot />;
+}
